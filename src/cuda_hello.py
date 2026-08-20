@@ -11,3 +11,5 @@ def main():
     y = torch.tensor([10,20,30])
 
     print("cpu result: ", x + y)
+
+main()
